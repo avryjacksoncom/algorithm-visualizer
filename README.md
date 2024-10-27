@@ -63,3 +63,9 @@ Launches the test runner in watch mode. See running tests for more info.
 
 npm run build
 Builds the app for production, optimizing the output in the build folder. Learn more about deploying in the deployment section.
+
+
+This is how the project should look like! 
+![HomePage](HomePage.png)
+![BinarySearch](BinarySearch.png)
+![Stack](Stack.png)
